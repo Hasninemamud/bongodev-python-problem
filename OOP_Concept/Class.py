@@ -40,7 +40,6 @@ class Student:
     roll = ""
 
 rahim = Student()
-print(isinstance(rahim, Student))
 rahim.roll = 101
 rahim.gpa = 3.67
 print(f"Roll:{rahim.roll} and GPA:{rahim.gpa}")
@@ -49,3 +48,7 @@ hemel = Student()
 hemel.roll = 102
 hemel.gpa = 4.00
 print(f"Roll: {hemel.roll} and GPA: {hemel.gpa}")
+
+
+
+
