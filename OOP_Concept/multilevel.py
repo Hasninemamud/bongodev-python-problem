@@ -21,3 +21,4 @@ class Boy(Men):
 
 boy_1 = Boy(2, 1200, 1, 3)
 print(boy_1.eyes)
+
